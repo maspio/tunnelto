@@ -1,0 +1,12 @@
+{
+  "name": "tunnelto",
+  "version": "0.1.18",
+  "description": "Expose your local web server to the internet with a public URL.",
+  "main": "Dockerfile",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maspio/tunnelto.git"
+  },
+  "author": "https://github.com/agrinman",
+  "homepage": "https://github.com/agrinman/tunnelto"
+}
